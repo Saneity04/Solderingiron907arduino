@@ -17,4 +17,4 @@ EncoderB = 4
 
 ## Diagram :
 
-![Diagram](	/electrocat.png)
+![Diagram](	/Schematic.png)
