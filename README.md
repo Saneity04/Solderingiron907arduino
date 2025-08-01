@@ -15,4 +15,6 @@ EncoderA = 3 \
 EncoderButton = 2 \
 EncoderB = 4
 
-Diagram Will be added later
+## Diagram :
+
+![Diagram](	/assets/images/electrocat.png)
