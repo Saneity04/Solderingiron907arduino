@@ -42,4 +42,4 @@ Control the power and until external thermocouple read 300C \
 trim the potentiometer near the MCP602 until the reading is around 751 \
 Finish
 
-You can use Calibration Screen to fine tune the reading of temperature on the screen \
+You can use Calibration Screen to fine tune the reading of temperature on the screen 
