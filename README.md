@@ -34,7 +34,7 @@ Diode must be fast recovery type if using other than UF5408
 
 ## Calibration :
 Set default setting when first usage \
-Need external thermocouple that can reach higher than 350C \
+Need external thermocouple that can reach atleast 300C \
 Go to Tune Screen in Setting \
 Using external thermocouple check the current tip temperature \
 Add some solder to tip to get more accurate temperature reading \
