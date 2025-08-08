@@ -29,7 +29,7 @@ pin 5 = Heater +
 board made with donut board \
 The Mosfet and D9 wire must be far from MCP602 and analog wire to prevent high frequency feedback \
 0.1uF decoupling capacitor is optional but recommended to add for stability on encoder and analog wire \
-Mosfet is IRF520n with small heatsink instead of IRFZ44n for simpler driving circuit \
+Mosfet is IRF520n with small heatsink instead of IRFZ44n \
 Diode must be fast recovery type if using other than UF5408
 
 ## Calibration :
