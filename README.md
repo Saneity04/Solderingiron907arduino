@@ -16,7 +16,7 @@ EncoderButton = 2 \
 EncoderB = 4
 
 Optional Update : \
-Added Reed Switch Connected to Pin D5 \
+Added Reed Switch Connected to Pin D5
 
 
 ## Diagram :
